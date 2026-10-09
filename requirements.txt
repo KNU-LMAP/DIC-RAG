@@ -1,0 +1,10 @@
+openai
+pdfplumber
+pandas
+tabulate          # DataFrame.to_markdown (table chunks)
+numpy
+faiss-cpu
+sentence-transformers
+torch
+transformers
+pytest            # tests only
